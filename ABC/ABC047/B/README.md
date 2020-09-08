@@ -1,11 +1,9 @@
 ABC047
 
 ## B - Snuke's Coloring 2 (ABC Edit)
-***
 [Problem Statement](https://atcoder.jp/contests/abc047/tasks/abc047_b?lang=en)
 
 ### Approach
-***
 Have a start and end point coordination, updates them, and obtain the area between them.
 
 ### Code (C++)
