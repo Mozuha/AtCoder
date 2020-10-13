@@ -3,6 +3,10 @@ ABC059
 ## B - Comparison
 [Problem Statement](https://atcoder.jp/contests/abc059/tasks/abc059_b)
 
+### Approach
+Need to handle large value (~10<sup>100</sup>)  
+Double type can handle 2.22507e-308 ~ 1.79769e+308 (±10<sup>-308</sup> ~ 10<sup>308</sup>).
+
 ### Code (C++)
 ```c++
 #define _GLIBCXX_DEBUG
